@@ -12,7 +12,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
 
 
 paginate: 4
